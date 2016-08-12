@@ -1,0 +1,12 @@
+var config = {};
+
+config.credentials = {};
+config.device = {};
+
+// console.log(new Buffer.from("My String").toString('base64'));
+// console.log(new Buffer.from("TXkgU3RyaW5n", 'base64').toString('ascii'));
+config.credentials.username = 'USERNAME';
+config.credentials.passwenc = 'PASSWORD';
+config.credentials.password = null;
+
+config.device.name = 'device name to watch'
