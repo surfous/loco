@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/surfous/loco/issues"
   },
-  "homepage": "https://github.com/surfous/loco#readme"
+  "homepage": "https://github.com/surfous/loco#readme",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "find-my-iphone": "^1.1.0"
+  }
 }
